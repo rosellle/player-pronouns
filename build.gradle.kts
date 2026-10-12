@@ -1,10 +1,10 @@
 plugins {
-    id("net.fabricmc.fabric-loom") version "1.17-SNAPSHOT"
+    id("net.fabricmc.fabric-loom") version "1.18-SNAPSHOT"
     id("com.modrinth.minotaur") version "2.+"
     `maven-publish`
 }
 
-version = "2.5.0+26.2"
+version = "2.5.0+26.3"
 group = "dev.ashhhleyyy"
 
 repositories {
